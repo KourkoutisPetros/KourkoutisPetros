@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Petros! 👋
 
-<!--
-**KourkoutisPetros/KourkoutisPetros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Doctoral Candidate in the Department of Electrical and Computer Engineering at Democritus University of Thrace (DUTH). My research focuses on **High-Performance Computing (HPC)**, **Numerical Linear Algebra**, and parallel algorithms for extreme-scale supercomputers.
 
-Here are some ideas to get you started:
+Alongside my research, I serve as an instructor for undergraduate Numerical Analysis courses, bridging the gap between mathematical theory and efficient algorithmic implementation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests & Focus
+* **Iterative Solvers:** Matrix-free Krylov subspace methods, preconditioning techniques.
+* **Domain Decomposition:** Scalable solvers, Schur complement extensions, and semi-aggregation techniques.
+* **Algorithm Development:** Creator of the Generalized Multi-Projection Method (GMPM) framework for distributed systems.
+* **Supercomputing:** Parallel scaling and optimizations for architectures like the ARIS and Daedalus supercomputers.
+
+### 💻 Tech Stack & Tools
+* **Languages:** Modern C++ (C++17/20), MATLAB, LaTeX
+* **Parallel Computing:** MPI, OpenMP
+* **Libraries & Solvers:** PETSc, Intel MKL, MAGMA, UMFPACK
+* **Graph Partitioning:** METIS, Mongoose
+* **Simulation:** COMSOL Multiphysics
+
+### 📈 Current Projects
+* 🚀 Integrating the GMPM framework into the PETSc library.
+* 📚 Developing a modern, template-based C++20 library for Applied Numerical Analysis (focusing on HPC practices).
+* ⚙️ Exploring asynchronous preconditioned Krylov solvers and mixed-precision techniques for my dissertation.
+
+### 📫 Get in Touch
+* **Academic Email:** pkourkou@ee.duth.gr
+* **Institution:** Democritus University of Thrace (Xanthi, Greece)
+
+---
+*"Aiming to bridge the gap between elegant numerical methods and raw computational performance."*
