@@ -19,7 +19,6 @@ Alongside my research, I serve as an instructor for undergraduate Numerical Anal
 
 ### Current Projects
 * Integrating the GMPM framework into the PETSc library.
-* Developing a modern, template-based C++20 library for Applied Numerical Analysis (focusing on HPC practices).
 * Exploring asynchronous preconditioned Krylov solvers and mixed-precision techniques for my dissertation.
 
 ### Get in Touch
